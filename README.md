@@ -1,6 +1,7 @@
 ## Olá! Eu sou Lucas Renan Frois Souza 👋
-Apaixonado pela área de Tecnologia da Informação, estou em busca de aprimorar minhas habilidades para atuar nesse campo. Com interesse em programação, desenvolvimento de sistemas e soluções inovadoras, busco constantemente aprender e aplicar novos conhecimentos para crescer profissionalmente e contribuir para o avanço da tecnologia.
- 
+Sou um entusiasta da Tecnologia da Informação , sempre em busca de aprimorar minhas habilidades para atuar de forma eficaz nesse campo sonoro e inovador. Tenho um forte interesse em programação, desenvolvimento de sistemas e criação de soluções tecnológicas , combinando aprendizado contínuo com aplicação prática.
+
+Minha missão é explorar novas tecnologias, resolver problemas de forma criativa e contribuir para o avanço da área. Acredito que a inovação nasce do conhecimento e da prática, por isso, estou sempre disposto a aprender, evoluir e compartilhar ideias que impactam positivamente o mundo da tecnologia.
  
  Estudo:
  - 📚 Inglês
